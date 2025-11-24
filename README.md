@@ -107,8 +107,9 @@ Backend Hosting: Render / Railway (for Python Flask API)
 
 ## 📞 Connect with Me
 GitHub: Harsiith
-LinkedIn: https://www.linkedin.com/in/Harsiith/
+LinkedIn: [https://www.linkedin.com/in/Harsiith/](https://www.linkedin.com/in/harsiith-a-7aa181258/)
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
